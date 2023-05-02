@@ -1,8 +1,4 @@
 ## Hello, Welcome to Disaster Drone
 
-The mission is to create a drone that will take photos of a distater site and upload all those images to the cloud. Once on 
-the cloud the images will then be process with a photogrammetry software. Then the 3D model/object will be rendered into a virutal reality
-enviorment, where the user can walk around and pin point specific locations of the model which would the individual damage locations. After
-the user exits the program the the pin point spots will be uploaded as images to a website that can then combine all the images into a document
-so they user can file an insurance claim.
-
+The goal of this project is to develop a cutting-edge system that utilizes drone, photogrammetry, and virtual reality (VR) technology to allow State Farm agents to remotely assess and process insurance claims for disaster scenarios. The autonomous drone will have object detection capabilities and will be deployed to the disaster area to capture images, which will be uploaded to the cloud for photogrammetry processing. We are working in collaboration with a team of EE senior design students who are developing and deploying the drone. After the photogrammetry process, the resulting 3D model will be rendered in a VR environment, enabling the user to walk around and pinpoint specific locations of damage. This data will then be sent to a website where the agent can add text descriptions to each location. Lastly, the information will be compiled into a comprehensive document for filing an insurance claim. By streamlining the claim process, the technology will enable State Farm agents to quickly and efficiently assist their clients in times of need.
+![image](https://user-images.githubusercontent.com/94029910/235567319-8f5f6aa6-12f6-4e49-b9ea-fc1c2dd26a43.png)
