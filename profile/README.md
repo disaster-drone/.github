@@ -5,4 +5,6 @@ The goal of this project is to develop a cutting-edge system that utilizes drone
 
 
 
-![image](https://user-images.githubusercontent.com/94029910/235567319-8f5f6aa6-12f6-4e49-b9ea-fc1c2dd26a43.png)
+<p align="center">
+    <img src = "https://user-images.githubusercontent.com/94029910/235567319-8f5f6aa6-12f6-4e49-b9ea-fc1c2dd26a43.png">
+</p>
