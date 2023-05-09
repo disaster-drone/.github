@@ -18,6 +18,7 @@ The goal of this project is to develop a cutting-edge system that utilizes drone
 This is the github repo for the CSE team of the project. This CSE team is meant to handle everything that happens after the drone has flown into the air, taken the photos, and then run the script that uploads them to the cloud.
 
 **System Overview Diagram**
+
 <img src = "https://github.com/disaster-drone/.github/assets/94029910/6aaa80bf-331d-4635-93d4-a34f7bdd610f">
 
 **End-to-End Demo Video**
