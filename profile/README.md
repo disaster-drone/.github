@@ -50,9 +50,9 @@ This is the github repo for the CSE team of the project. This CSE team is meant 
 
 ## CSE Drone Engineers
 * **Faith Gutierrez:** _Lead Drone Engineer_, Drone Pilot.
-* **Asim Regmi:** Drone Engineer.
-* **Danielle Pham**: Drone Engineer.
-* **Pratik Dhakal**: Drone Engineer.
+* **Asim Regmi**
+* **Danielle Pham**
+* **Pratik Dhakal**
 
 
 ## Backend Software Developer
