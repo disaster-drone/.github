@@ -23,7 +23,7 @@ This is the github repo for the CSE team of the project. This CSE team is meant 
 
 **End-to-End Demo Video**
 
-**Repository Descriptions*
+**Repository Descriptions**
 * Drone: All drone information including images, drone kit, and wiring diagram.
 * Documentation: All documentation required for our Senior Design Class.
 * diaster-drone-website: The React App that allows State Farm agents to manage cases.
