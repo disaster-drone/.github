@@ -23,3 +23,10 @@ This is the github repo for the CSE team of the project. This CSE team is meant 
 
 **End-to-End Demo Video**
 
+**Repository Descriptions*
+* Drone: All drone information including images, drone kit, and wiring diagram.
+* Documentation: All documentation required for our Senior Design Class.
+* diaster-drone-website: The React App that allows State Farm agents to manage cases.
+* automation: All scripts and information about said scripts involved in automating our system. Photogrammetry info here as well.
+* VR-Environment: The Unreal Project we developed to allow State Farm agents to view the 3D model of diaster scenarios in VR.
+* packagedproject: A packeged version of the Unreal Project ready to play with Oculus Rift or Oculus Meta Quest 2.
