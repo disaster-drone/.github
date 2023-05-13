@@ -25,12 +25,12 @@ This is the github repo for the CSE team of the project. This CSE team is meant 
 [Full Video](https://www.youtube.com/watch?v=Wihp6apQa7A&feature=youtu.be)
 
 # Repository Descriptions
-* Drone: All drone information including images, drone kit, and wiring diagram.
-* diaster-drone-website: The React App that allows State Farm agents to manage cases.
-* automation: All scripts and information about said scripts involved in automating our system. Photogrammetry info here as well.
-* VR-Environment: The Unreal Project we developed to allow State Farm agents to view the 3D model of diaster scenarios in VR.
-* packagedproject: A packeged version of the Unreal Project ready to play with Oculus Rift or Oculus Meta Quest 2.
-* Documentation: All documentation required for our Senior Design Class.
+* [Drone](https://github.com/disaster-drone/Drone): All drone information including images, drone kit, and wiring diagram.
+* [diaster-drone-website](https://github.com/disaster-drone/disaster-drone-website): The React App that allows State Farm agents to manage cases.
+* [automation](https://github.com/disaster-drone/automation): All scripts and information about said scripts involved in automating our system. Photogrammetry info here as well.
+* [VR-Environment](https://github.com/disaster-drone/VR-Environment): The Unreal Project we developed to allow State Farm agents to view the 3D model of diaster scenarios in VR.
+* [packagedproject](https://github.com/disaster-drone/packagedproject): A packeged version of the Unreal Project ready to play with Oculus Rift or Oculus Meta Quest 2.
+* [Documentation](https://github.com/disaster-drone/Documentation): All documentation required for our Senior Design Class.
 
 
 # Introducing our Team:
