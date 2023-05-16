@@ -41,7 +41,7 @@ This is the github repo for the CSE team of the project. This CSE team is meant 
 
 
 ## Backend Automation Developer
-* **Asim Regmi:** _Lead Automation Dev_, Google Cloud Platform Manager, Python.
+* **Asim Regmi:** _Lead Automation Dev_, Google Cloud Platform Manager, Python, Unreal Engine, Scripting, API.
 * **Danielle Pham:** Bash Scripting, Google Cloud Platform, Unreal Engine.
 
 
