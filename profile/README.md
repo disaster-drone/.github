@@ -3,14 +3,14 @@
 
 The goal of this project is to develop a cutting-edge system that utilizes drone, photogrammetry, and virtual reality (VR) technology to allow State Farm agents to remotely assess and process insurance claims for disaster scenarios. The autonomous drone will have object detection capabilities and will be deployed to the disaster area to capture images, which will be uploaded to the cloud for photogrammetry processing. We are working in collaboration with a team of EE senior design students who are developing and deploying the drone. After the photogrammetry process, the resulting 3D model will be rendered in a VR environment, enabling the user to walk around and pinpoint specific locations of damage. This data will then be sent to a website where the agent can add text descriptions to each location. Lastly, the information will be compiled into a comprehensive document for filing an insurance claim. By streamlining the claim process, the technology will enable State Farm agents to quickly and efficiently assist their clients in times of need.
 
-This is the github repo for the CSE team of the project. This CSE team is meant to handle everything that happens after the drone has flown into the air, taken the photos, and then run the script that uploads them to the cloud.
+This is the GitHub repo for the CSE team of the project. This CSE team is meant to handle everything that happens after the drone has flown into the air, taken the photos, and then run the script that uploads them to the cloud.
 
 ## System Overview Diagram
 
 <img src = "https://github.com/disaster-drone/.github/assets/94029910/6aaa80bf-331d-4635-93d4-a34f7bdd610f">
 
 # End-to-End Demo Video
-[Full Video](https://www.youtube.com/watch?v=Wihp6apQa7A&t=115s)
+[Full Video](https://www.youtube.com/watch?v=Wihp6apQa7A)
 
 # Repository Descriptions
 * [Drone](https://github.com/disaster-drone/Drone): All drone information including images, drone kit, and wiring diagram.
