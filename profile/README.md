@@ -1,15 +1,3 @@
-<br />
-<br />
-
-<p align="center">
-  <a href="https://github.com/disaster-drone/">
-    <img src="https://cdn.discordapp.com/attachments/804128313521471548/1105547469007364146/DRONE.png" alt="drone logo white">
-  </a>
-</p>
-
-<br />
-
-
 # 👋  Hello, Welcome to Disaster Drone Organization
 ## Description
 
@@ -22,7 +10,7 @@ This is the github repo for the CSE team of the project. This CSE team is meant 
 <img src = "https://github.com/disaster-drone/.github/assets/94029910/6aaa80bf-331d-4635-93d4-a34f7bdd610f">
 
 # End-to-End Demo Video
-[Full Video](https://www.youtube.com/watch?v=Wihp6apQa7A&feature=youtu.be)
+[Full Video](https://www.youtube.com/watch?v=Wihp6apQa7A&t=115s)
 
 # Repository Descriptions
 * [Drone](https://github.com/disaster-drone/Drone): All drone information including images, drone kit, and wiring diagram.
